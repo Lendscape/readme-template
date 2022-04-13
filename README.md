@@ -14,7 +14,7 @@ List of all requirements for running the repository, be as thorough as possible 
 ## Usage
 How to install the dependencies and run the project, both in development and production (build, env, dist etc...).
 
-## Our Standard
+## Documentation
 Coding standards, best practices, testing, debugging, examples, etc...
 
 ## Contributing
